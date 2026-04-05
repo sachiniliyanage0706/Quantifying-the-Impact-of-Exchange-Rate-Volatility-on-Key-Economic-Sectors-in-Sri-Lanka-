@@ -52,26 +52,26 @@ Correlation analysis to identify relationships
 Multiple regression to measure impact of variables
 Time series analysis to study trends
 Moving average and Winters’ method for forecasting
+
 📈 Key Findings
 Exchange rate has a noticeable impact on imports and exports
 Imports tend to decrease when exchange rate increases
 Exports show a positive relationship with exchange rate
 Tourism earnings are less directly affected and depend more on overall economic conditions
 Regression models show moderate explanatory power due to real-world complexity
+Time series forecasting shows stable short-term trends
+
 🔮 Forecasting
 
 Time series analysis was used to forecast future values for imports, exports, and tourism earnings.
-
 Moving average method provided the best results based on error measures (MAPE, MAD)
 Short-term forecasts (4 months ahead) show relatively stable trends
+
 🛠 Tools Used
 Minitab
 Microsoft Excel
 
-🔍 Key Findings
-Exchange rate significantly affects imports and exports
-Tourism earnings depend more on macroeconomic stability
-Time series forecasting shows stable short-term trends
+
 📊 Project Files
 This repository includes:
 
@@ -79,6 +79,7 @@ Dataset used for analysis
 Regression outputs
 Time series results
 Final research report
+
 👩‍💻 Author
 
 Sachini Liyanage
