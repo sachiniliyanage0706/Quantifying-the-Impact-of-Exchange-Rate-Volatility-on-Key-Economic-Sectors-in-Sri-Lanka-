@@ -54,6 +54,7 @@ Time series analysis to study trends
 Moving average and Winters’ method for forecasting
 
 📈 Key Findings
+
 Exchange rate has a noticeable impact on imports and exports
 Imports tend to decrease when exchange rate increases
 Exports show a positive relationship with exchange rate
@@ -68,11 +69,13 @@ Moving average method provided the best results based on error measures (MAPE, M
 Short-term forecasts (4 months ahead) show relatively stable trends
 
 🛠 Tools Used
+
 Minitab
 Microsoft Excel
 
 
 📊 Project Files
+
 This repository includes:
 
 Dataset used for analysis
